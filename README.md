@@ -1,6 +1,9 @@
 # Cobalt Strike 4.9 Package Overview
 
 This repository contains the package layout and bundled files I have for Cobalt Strike 4.9.
+<p align="center">
+  <img src="https://github.com/fumioryoto/CobaltStrike-Cracked/raw/main/cobaltstrike_4.9.jpeg" alt="Dashboard" width="1500">
+</p>
 
 ## About
 
@@ -76,21 +79,9 @@ Based on the included scripts, this package appears to expect:
 
 These are descriptive observations from the repository contents, not setup instructions.
 
-## Files Reviewed
-
-I prepared this README after reviewing:
-
-- [Client/cobaltstrike-client.cmd](D:\Resource\CobaltSrike_4.9.1_Cracked_Pwn3rzs\Client\cobaltstrike-client.cmd)
-- [Client/cobaltstrike-client.sh](D:\Resource\CobaltSrike_4.9.1_Cracked_Pwn3rzs\Client\cobaltstrike-client.sh)
-- [Server/teamserver](D:\Resource\CobaltSrike_4.9.1_Cracked_Pwn3rzs\Server\teamserver)
-- [Server/source-common.sh](D:\Resource\CobaltSrike_4.9.1_Cracked_Pwn3rzs\Server\source-common.sh)
-- [Server/third-party/README.winvnc.txt](D:\Resource\CobaltSrike_4.9.1_Cracked_Pwn3rzs\Server\third-party\README.winvnc.txt)
-
 ## Security And Legal Notice
 
 - Offensive security software must only be handled in explicitly authorized environments.
-- Unauthorized or cracked software may violate law, licensing terms, and organizational policy.
-- If you need a legitimate red-team platform, use a properly licensed and vendor-supported distribution.
 
 ## Scope Of This README
 
@@ -101,3 +92,4 @@ I am intentionally not including:
 - connection instructions
 - payload or post-exploitation guidance
 - operational usage examples
+If you dont know what it is then dont try to use it.
